@@ -27,7 +27,9 @@
            android:id="@+id/txtSlogan"
            android:text="@string/slogan"
            />
+
    </LinearLayout>
+
 
     <LinearLayout
         android:orientation="horizontal"

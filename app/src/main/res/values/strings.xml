@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Food order</string>
     <string name="slogan">No matter where you are whether you are at home, or in office or anywhere
-        we will find you and we will feed you</string>
+        we will find you and we will feed you - Developed by Sameed</string>
     <string name="sign_up">Sign Up</string>
     <string name="sign_in">Sign In</string>
     <string name="title_activity_home">Home</string>

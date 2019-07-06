@@ -29,7 +29,9 @@
             android:name=".Home"
             android:label="@string/title_activity_home"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity android:name=".FoodList" />
+        <activity android:name=".FoodList"
+            android:parentActivityName=".Home"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"/>
         <activity
             android:name=".FoodDetail"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
